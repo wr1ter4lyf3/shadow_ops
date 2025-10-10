@@ -1,14 +1,28 @@
-# shadow_ops
-Cybersecurity and security learning and skills
-# Command Board
+# Shadow Ops
 
-This is not a portfolio.  
-This is a log of what I’ve survived, studied, and built with my own hands.  
-Here you’ll find:
+A personal cybersecurity portfolio and lab space.  
+This repo collects my notes, labs, and projects as I build toward a career in information security.
 
-- Personal projects and technical labs
-- Study notes and walkthroughs
-- Scripts and commands that helped me troubleshoot real problems
-- Moments of clarity in between the chaos
+---
 
-I’m not here to prove anything. I’m here to build what works.
+## Current Focus
+- Security+ (SY0-701) labs and applied exercises  
+- SIEM, IDS, and IPS tools (starting with wazuh)  
+- Incident response and risk management fundamentals  
+
+---
+
+## Repo Layout
+| Folder | Purpose |
+|---------|----------|
+| `/SIEM-IDS-IPS/` | Experiments with wazuh, Splunk, and similar tools |
+| `/Incident-Response/` | Playbooks, MITRE mappings, and detection exercises |
+| `/Risk-Management/` | Notes and examples from current Security+ coursework |
+| `/Docs/` | References, summaries, and study materials |
+
+---
+
+### Notes
+This repo evolves with my studies and lab work.  
+I keep physical notebooks for daily logs; what’s here represents finalized or shareable insights.
+
