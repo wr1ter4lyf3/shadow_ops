@@ -1,6 +1,7 @@
 # Shadow Ops
 
 A personal cybersecurity portfolio and lab space.  
+
 This repo collects my notes, labs, and projects as I build toward a career in information security.
 
 ---
